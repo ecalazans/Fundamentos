@@ -4,11 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
     "dev": "ts-node-dev app.decisao.repeticao.ts",
-=======
-    "dev": "ts-node-dev app.ts",
->>>>>>> 3ad2361a853c2b58648eeac31d061862152f2365
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
